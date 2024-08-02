@@ -1,0 +1,261 @@
+name,type,faction,actions,life,will,command,size,ducats,movement,dexterity,attack,protection,mind,character abilities
+vlad dracula,Leader,Strigoi,3,15,0,5,30,27,4,5,5,5,5,"expert offence(2), expert protection(2), frenzied"
+blood crone,Leader,Strigoi,3,13,5,3,30,18,3,4,2,3,5,"Mage(3), slippery"
+noble strigoi,Leader,Strigoi,3,13,0,4,30,21,5,5,4,4,4,"expert offence(3), frenzied, vampiric attack(2)"
+stryha crone,Leader,Strigoi,3,12,0,3,30,22,5,5,4,1,3,"Concealment(+2), flight, frenzied, infiltration, vampiric attack(1)"
+wallachian hospodar,Leader,Strigoi,3,14,0,3,30,21,4,5,4,6,4,"vampiric attack(1), universal shielding(3), frenzied"
+ceres,Hero,Strigoi,2,12,0,1,30,19,5,5,4,2,5,"concealment(+2), frenzied, infiltration, slippery, vampiric attack(2)"
+cibele,Hero,Strigoi,2,12,0,1,30,19,5,5,4,2,5,"expert sorcerer(1), frenzied, mage(2), vampiric attack(2)"
+miriam,Hero,Strigoi,2,12,0,4,30,19,5,5,4,2,5,"frenzied, vampiric attack(1)"
+monstrous stryx,Hero,Strigoi,2,30,0,0,60,40,6,3,5,2,2,"bulky, flight, frenzied, mindless, slippery, vampiric attack(2)"
+Aquatic Strigoi,Hero,Strigoi,2,11,0,0,30,15,4,3,4,1,2,"fast swimmer(2). frenzied, vampiric attack(1), water creature"
+Cetean Upiór,Hero,Strigoi,2,17,0,0,50,21,3,3,5,3,2,"expert grappler(3), fast swimmer(2), frenzied, vampiric attack(1), water creature"
+Highborn Servant,Hero,Strigoi,2,12,2,0,30,13,4,4,4,3,1,"companion(vampire), parry(1)"
+Hulking Moroi,Hero,Strigoi,2,15,0,0,40,16,4,4,4,1,1,"bulky, first strike(2), frenzied, mindless, vampiric attack(1)"
+Leech,Hero,Strigoi,2,8,0,0,30,12,5,5,3,1,1,"frenzied, primitive, vampiric attack(3), water creature"
+Moon Eater,Hero,Strigoi,2,17,1,0,50,23,4,4,5,1,1,"berserk, brawler(2), fear(3), mindless"
+Reaper,Hero,Strigoi,2,12,0,0,30,15,5,5,4,1,1,"aerial attack, frenzied, mindless, vampiric attack(2)"
+Seer,Hero,Strigoi,2,11,4,2,30,15,4,4,4,3,4,"Mage(2), slippery"
+Spatar,Hero,Strigoi,2,12,0,2,30,16,4,4,4,5,2,"vampiric attack(1), bodyguard(Leader), parry(1), frenzied"
+Strige,Hero,Strigoi,2,10,0,0,30,15,5,5,4,1,3,"flight, frenzied, hunter, vampiric attack(1)"
+Strigoi Priest,Hero,Strigoi,2,12,0,0,30,14,4,5,4,3,4,"frenzied, vampiric attack(1)"
+Strzyga,Hero,Strigoi,2,15,0,0,40,18,4,4,4,2,2,"expert offence(2), flight, frenzied, vampiric attack(1)"
+Targoveti,Henchman,Strigoi,2,11,1,0,30,9,4,4,3,4,1,companion(vampire)
+Tarot Reader,Hero,Strigoi,2,11,4,0,30,16,4,4,3,3,5,"expert sorcerer(1), mage(2), slippery"
+Varcolac,Hero,Strigoi,3,14,3,0,40,17,5,5,4,1,1,"first strike(1), mindless"
+Wallachian Impaler,Hero,Strigoi,2,14,0,0,40,18,4,4,4,3,1,"vampiric attack(1), expert offence(2), fear(1), frenzied"
+Zoryi,Hero,Strigoi,2,19,0,0,50,19,4,4,5,3,1,"Brawler(2), bulky, fear(0), frenzied, vampiric attack(1)"
+Al Naibii,Henchman,Strigoi,2,11,2,0,30,11,4,4,3,2,2,"Brave, first strike(1), vampiric attack(1)"
+Common Strigoi,Henchman,Strigoi,2,11,0,0,30,13,4,5,4,3,2,"expert offence(1), frenzied, vampiric attack(1)"
+Ferryman,Henchman,Strigoi,2,11,1,0,30,9,4,4,3,3,1,Fear(1)
+Harpy,Henchman,Strigoi,2,7,0,0,30,6,5,5,2,1,1,"flight, frenzied, mindless, vampiric attack(1)"
+Newborn Strigoi,Henchman,Strigoi,2,9,0,0,30,8,5,4,3,2,1,"frenzied, mindless, vampiric attack(1)"
+Nosferatu,Henchman,Strigoi,2,10,0,2,30,13,3,4,3,3,3,"Concealment(+1), frenzied, vampiric attack(1)"
+Romani,Henchman,Strigoi,2,10,2,0,30,9,4,4,3,2,3,"Mage(0), slippery"
+Rotter,Henchman,Strigoi,2,12,0,0,40,12,3,4,4,2,1,"berserk, fast swimmer(2), frenzied, water creature"
+Sinker,Henchman,Strigoi,2,10,0,0,30,12,3,4,3,2,1,"frenzied, limited movement, water creature"
+Starved Dhampir,Henchman,Strigoi,2,10,0,0,30,7,4,3,3,2,1,"frenzied, vampiric attack(2)"
+Thrall,Henchman,Strigoi,2,10,0,0,30,9,4,4,3,3,1,companion(vampire)
+Guard Commander,Leader,Patricians,3,14,2,5,30,20,4,4,4,4,5,"brave, parry(2)"
+Noble Admiral,Leader,Patricians,3,13,3,4,30,19,4,4,4,4,5,"boat crew, expert marksman(2), fast swimmer(2)"
+Venetian Noble,Leader,Patricians,3,13,4,3,30,21,4,5,4,4,4,"engage, expert offence(2)"
+Sopracomito,Leader,Patricians,2,12,8,2,30,15,4,4,3,5,4,boat crew
+Sopracomito,Hero,Patricians,2,12,8,2,30,15,4,4,3,5,4,boat crew
+Moon,Hero,Patricians,2,12,4,0,30,16,5,5,3,2,5,"companion(sun), flight, mage(2), mindless"
+Sun,Hero,Patricians,2,12,4,0,30,15,5,5,5,2,4,"Acrobatic(3), companion(moon), expert marksman(2), mindless"
+Adventuring Noble,Hero,Patricians,2,12,2,1,30,16,5,4,4,3,3,"hunter, mage(2)"
+Captain of the Guard,Hero,Patricians,2,13,2,3,30,14,4,4,4,4,3,"bodyguard(officer), companion(officer)"
+Cat Burglar,Hero,Patricians,2,11,3,1,30,15,5,6,3,2,3,"aerial attack, concealment(+2), infiltration, pickpocket"
+Fencing Master,Hero,Patricians,2,11,4,0,30,16,4,5,4,3,3,"engage, expert offence(2), parry"
+Foreign Dignitary,Hero,Patricians,2,12,3,1,30,14,4,4,4,4,2,"companion(councillor), expert offence(2)"
+Gourmand Noble,Hero,Patricians,2,13,1,0,40,13,4,4,4,3,1,"engage, fear(-2), mindless, vampiric attack(2)"
+Naval Lieutenant,Hero,Patricians,2,12,2,1,30,15,4,4,4,4,3,"boat crew, fast swimmer(2)"
+Ottoman Cannoneer,Hero,Patricians,2,15,2,0,40,15,4,3,3,2,2,Brawler(2)
+Ottoman Janissary,Hero,Patricians,2,13,3,2,30,17,4,4,4,5,4,"bodyguard(Leader), brawler(1), expert offence(2), universal shielding(3)"
+Seven Years Veteran,Hero,Patricians,2,13,4,0,30,15,4,4,4,4,5,"brave, expert offence(1), expert marksman(1)"
+Submissive Noble,Hero,Patricians,2,14,1,2,40,17,4,4,4,3,3,"frenzied, expert offence(2)"
+Syphilitic Noble,Hero,Patricians,2,11,0,1,30,13,4,4,4,4,1,"berserk, engage, frenzied, mindless"
+Venetian Heavy Guard,Hero,Patricians,2,15,1,0,40,16,4,4,4,5,2,"companion(officer), expert protection(3)"
+Venetian Spy,Hero,Patricians,2,12,2,1,30,16,4,4,4,3,4,"Concealment(+1), expert marksman(2), infiltration"
+Wayfinder,Hero,Patricians,2,11,5,3,30,13,4,4,2,3,5,none
+Barnabotti,Henchman,Patricians,2,11,2,1,30,12,4,4,3,3,2,"companion(councillor), first strike(1)"
+Butler,Henchman,Patricians,2,11,1,0,30,10,4,4,3,3,3,"bodyguard(councillor), expert marksman(2)"
+Cannibal Cultist,Henchman,Patricians,2,11,0,0,30,10,4,4,3,3,1,"mindless, frenzied, vampiric attack(1)"
+Cortigiane,Henchman,Patricians,2,12,2,0,30,12,4,4,3,3,2,"companion(Leader), first strike(1), acrobatic(1)"
+City Guard,Henchman,Patricians,2,12,1,0,30,10,4,4,3,4,2,companion(officer)
+Guard Marksman,Henchman,Patricians,2,12,1,0,30,12,4,4,3,4,2,companion(officer)
+Guard Sentry,Henchman,Patricians,2,10,3,1,30,12,5,5,3,3,3,Acrobatic(2)
+Household Staff,Henchman,Patricians,2,10,1,0,30,9,4,4,3,3,2,companion(councillor)
+Merchant,Henchman,Patricians,2,11,2,3,30,13,4,4,3,3,4,none
+Naval Ensign,Henchman,Patricians,2,10,2,0,30,12,4,4,3,3,2,"companion(officer), hunter, fast swimmer(2)"
+Naval Recruit,Henchman,Patricians,2,10,2,0,30,9,4,4,3,3,1,fast swimmer(2)
+Noble Seafarer,Henchman,Patricians,2,11,3,0,30,12,4,4,3,3,2,"boat crew, fast swimmer(2)"
+Ottoman Archer,Henchman,Patricians,2,11,3,0,30,11,5,4,3,3,2,"boat crew, fast swimmer(1), universal shielding(3)"
+Ottoman Pirate,Henchman,Patricians,2,11,3,0,30,13,5,4,3,3,2,"boat crew, parry(1), fast swimmer(1), universal shielding(3)"
+Ottoman Rigger,Henchman,Patricians,2,11,4,0,30,12,5,6,3,2,3,boat crew
+Doctor of the Mind,Leader,Doctors,3,12,2,2,30,22,3,4,3,4,6,"Fear(-2), mage(3), parry(3)"
+Master of Necromantic Studies,Leader,Doctors,3,11,0,4,30,23,4,4,4,4,5,"expert sorcerer(1), frenzied, mage(2), vampiric attack(2)"
+Master of Arcane Security,Leader,Doctors,3,22,4,3,50,27,4,3,5,6,4,"Brawler(2), universal shielding(3)"
+Master of Zoology,Leader,Doctors,3,14,4,3,30,20,4,4,4,5,4,"expert protection(2), hunter"
+Plague Doctor,Leader,Doctors,3,13,2,4,30,21,4,4,4,4,4,"expert sorcerer(1), mage(2)"
+The Being,Hero,Doctors,2,15,1,0,40,15,4,4,5,3,1,"berserk, companion(doctor), mindless, primitive"
+The Unholy Union,Hero,Doctors,3,40,0,0,60,55,4,4,6,1,2,"bulky, expert grappler(3), fear(-3), limited movement, mindless, primitive"
+Alchemist Doctor,Hero,Doctors,2,11,2,0,30,13,5,5,3,3,2,brave
+Brined Horror,Hero,Doctors,2,25,0,0,50,19,3,3,6,3,1,"bulky, fast swimmer(3), fear(-1), mindless, water creature"
+Doctor of Blood,Hero,Doctors,2,12,0,0,30,16,4,4,3,4,4,"frenzied, mage(2), vampiric attack(2)"
+Doctor of Poisons,Hero,Doctors,2,11,2,2,30,13,5,4,3,3,4,"expert offence(2), slippery"
+Doctor of the Beasts,Hero,Doctors,2,11,2,2,30,14,4,4,3,4,4,hunter
+Doctor of the Firmament,Hero,Doctors,2,10,2,2,30,16,4,4,2,4,5,"expert sorcerer(2), mage(2)"
+Morgue Doctor,Hero,Doctors,2,12,2,2,30,15,4,4,3,3,4,Mage(2)
+Ordnance Doctor,Hero,Doctors,2,12,2,0,30,15,4,4,3,4,3,expert marksman(1)
+Unleashed Madman,Hero,Doctors,2,12,3,0,30,15,5,5,4,2,1,"Brawler(1), expert grappler(3), mindless"
+Voltage Bombardiers,Hero,Doctors,2,10,4,0,40,13,5,4,3,2,1,"Brawler(2), mindless"
+Warden,Hero,Doctors,2,13,1,0,30,13,4,4,4,4,2,"bodyguard(doctor), expert protection(2)"
+Apprentice Doctor,Henchman,Doctors,2,10,2,0,30,12,4,4,3,3,3,companion(doctor)
+Basilisk,Henchman,Doctors,2,17,0,0,50,13,4,3,3,4,1,"bulky, fear(2), limited movement, mindless, primitive"
+Carrion,Henchman,Doctors,2,8,4,0,30,10,6,5,3,2,1,"infiltration, mindless, pickpocket"
+Crocodile,Henchman,Doctors,2,13,0,0,50,14,3,4,4,4,1,"fast swimmer(3), limited movement, mindless, primitive, water creature"
+Doctor of Venesection,Henchman,Doctors,2,9,0,0,30,10,4,5,3,3,2,"frenzied, limited movement, primitive, vampiric attack(1)"
+Electron Cannoneer,Henchman,Doctors,2,11,2,0,30,12,4,4,3,2,2,universal shielding(2)
+Gorilla,Henchman,Doctors,2,13,0,0,40,13,4,4,3,3,1,"bodyguard(doctor), flight, primitive"
+Hippocampus,Henchman,Doctors,2,20,0,0,50,19,4,3,4,4,1,"bulky, fast swimmer(4), limited movement, mindless, primitive, water creature"
+Hippogryph,Henchman,Doctors,2,12,0,0,40,12,6,5,2,2,1,"flight, infiltration, mindless, primitive"
+Hollowman,Henchman,Doctors,2,6,0,0,30,6,4,4,2,2,1,"frenzied, mindless"
+Husk,Henchman,Doctors,2,8,0,0,30,4,4,2,3,0,1,"expert grappler(2), mindless"
+Lab Assistant,Henchman,Doctors,2,11,1,0,30,10,4,4,3,2,2,"companion(doctor, hunter"
+Lion,Henchman,Doctors,2,12,0,0,50,12,5,5,4,2,1,"engage, expert offence(3), mindless, primitive"
+Madman,Henchman,Doctors,2,8,6,0,30,5,5,4,1,2,1,"limited movement, mindless"
+Manticore,Henchman,Doctors,2,10,0,0,30,10,6,4,3,2,1,"expert marksman(2), mindless, primitive"
+Monstrosity,Henchman,Doctors,2,14,0,0,40,10,4,2,3,0,1,"Brawler(2), mindless"
+Nurse,Henchman,Doctors,2,10,1,0,30,7,4,4,2,2,2,"frenzied, primitive"
+Rhino,Henchman,Doctors,2,20,0,0,50,15,5,3,3,5,1,"bulky, first strike(2), limited movement, mindless, primitive"
+Capodecina,Leader,Guild,3,13,4,4,30,20,5,6,4,2,4,"Aerial Attack,Expert Offence(2),Infiltration"
+Harbourmaster,Leader,Guild,3,14,3,4,30,21,4,4,4,4,4,"Fast Swimmer(2),Parry(2)"
+King for a Day,Leader,Guild,2,12,2,2,30,16,5,4,4,2,3,"Brave,Companion(End of Days),Mindless"
+Madame,Leader,Guild,3,12,4,4,30,20,4,5,3,3,6,"Concealment(+1),Parry(2),Slippery"
+Ostrich King,Leader,Guild,2,15,2,2,40,19,7,4,4,2,2,"Bulky,Companion(End of Days),First Strike(2),Limited Movement,Mindless,Slippery"
+Prince of Thieves,Leader,Guild,3,13,2,5,30,23,5,5,5,4,5,"Acrobatic(2),Expert Marksman(2),Pickpocket,Slippery"
+Baba-Yaga,Hero,Guild,2,13,7,0,40,19,4,3,2,3,6,"Bulky,Mage(3),Vampiric Attack(2)"
+Black Lamp,Hero,Guild,2,14,5,2,30,17,4,4,4,4,5,"Brave,Universal Shielding(4)"
+Rialto Assassin,Hero,Guild,2,13,3,0,30,16,5,5,5,3,3,"Expert Marksman(3),Infiltration,Slippery"
+Barber,Hero,Guild,2,11,3,0,30,12,4,5,4,3,3,"Expert Offence(1),Engage"
+Baroni,Hero,Guild,2,13,3,2,30,15,4,4,4,4,4,"Expert Marskman(2),Pickpocket"
+Brewer,Hero,Guild,2,13,2,2,40,15,4,3,3,2,2,"Companion (end of Days), Mindless"
+Brute,Hero,Guild,2,14,2,0,40,13,4,4,4,2,1,"Companion (End of Days),Mindless"
+Butcher,Hero,Guild,2,13,3,0,30,13,4,4,4,4,3,"Brawler(2),Expert Grappler(2)"
+Dancer,Hero,Guild,2,11,2,3,30,14,4,6,3,2,4,Slippery
+Fisherman,Hero,Guild,2,12,3,1,30,14,4,4,4,4,3,"Expert Offence(1), Fast Swimer(2),Hunter"
+Recruiter,Hero,Guild,2,12,3,2,30,14,4,4,3,3,5,none
+Shadow Assassin,Hero,Guild,2,11,3,1,30,14,5,5,4,3,3,Slippery
+Smuggler,Hero,Guild,2,12,2,0,30,14,4,4,3,3,5,"Boat Crew, Concealment(+1)"
+Thief,Hero,Guild,2,14,3,1,30,14,5,5,3,2,3,"Aerial Attack,Infiltration,Pickpocket"
+Very Loud Ostrich,Hero,Guild,2,14,3,2,40,16,7,4,3,2,1,"Bulky,Companion(End of Days),First Strike(2),Limited Movement,Mindless,Slippery"
+Whaler,Hero,Guild,2,15,2,0,40,17,4,4,4,2,3,"Boat Crew,Hunter,Fast Swimmer(2)"
+Witch,Hero,Guild,2,11,4,2,30,16,4,4,3,3,5,"Mage(2),Slippery"
+Arbalest,Henchman,Guild,2,10,2,0,30,10,4,4,3,4,3,Companion(Trade)
+Beggar,Henchman,Guild,2,10,0,0,30,6,4,3,2,3,2,Concealment(+2)
+Blooded,Henchman,Guild,2,10,0,0,30,5,4,3,2,1,1,"Mindless,Limited Movement"
+Citizen,Henchman,Guild,2,11,2,0,30,9,4,4,3,3,3,Companion(Trade)
+Dog Keeper,Henchman,Guild,2,11,1,2,30,12,4,4,3,3,2,"Companion(Dog),Engage"
+Dog,Henchman,Guild,2,6,0,0,30,5,6,5,2,1,1,"Engage,Limited Movement,Mindless"
+Escort,Henchman,Guild,2,13,2,0,40,12,4,4,3,3,3,"Bodyguard(Hero,Henchman),Expert Grappler(1)"
+Firebreather,Henchman,Guild,2,9,2,0,30,10,5,4,3,2,1,"Companion(End of Days),Mindless"
+Gondolier,Henchman,Guild,2,11,2,0,30,11,4,4,3,3,3,"Brave,Fast Swimmer(1)"
+Harlot,Henchman,Guild,2,11,2,0,30,10,4,4,3,2,3,"Concealment(+1),Slippery"
+Mariner,Henchman,Guild,2,11,2,0,30,10,4,4,3,3,3,"Boat Crew, Fast Swimmer(2)"
+Ostrich Rider,Henchman,Guild,2,13,2,0,40,12,7,4,3,2,1,"Bulky,Companion(End of Days),First Strike(2),Limited Movement,Mindless,Slippery"
+Pilferer,Henchman,Guild,2,8,3,0,30,10,5,6,2,2,2,"Concealment(+1),Pickpocket"
+Poacher,Henchman ,Guild,2,10,2,0,30,11,5,4,3,3,2,"Concealment(+1),Infiltraton"
+Pulcinella,Henchman,Guild,2,9,1,0,30,8,5,4,3,2,1,"Mindless,Companion(End of Days)"
+Shipwright,Henchman,Guild,2,13,1,0,40,12,4,4,3,3,2,Expert Offence(2)
+IL Capitano,Leader,Gifted,3,13,3,4,30,21,4,4,4,2,2,"Brawler(2),Expert Offence(2)"
+La Signora,Leader,Gifted,3,15,5,3,40,20,4,4,4,3,3,"Bulky,Parry(2)"
+The Duke,Leader,Gifted,3,13,2,2,30,22,4,5,5,4,5,"Aerial Attack, Bodyguard(henchman),Expert Offence(2),Infiltration"
+The Aberration,Hero,Gifted,2,22,4,0,50,23,4,4,5,3,3,"Berserk,Bulky,Mindless"
+Artisan Elena,Hero,Gifted,2,12,0,0,30,17,4,4,3,3,1,"Vampiric Attack(1),Frenzied"
+Black spectre,Hero,Gifted,3,30,0,0,50,30,4,4,6,2,3,"Bulky,Etheral,Fear(-2),Flight,Mindless"
+Burattino,Hero,Gifted,2,10,4,0,30,15,4,4,4,1,3,"Engage,Expert Offence(3),Hunter,Mindless,Vampiric Attack(1)"
+Fadhila,Hero,Gifted,3,12,6,0,30,19,4,5,3,4,5,"Expert Sorcerer(1),Mage(2)"
+Fate,Hero,Gifted,2,14,5,0,40,18,4,4,2,3,5,"Ethereal,Expert Sorcerer(2),Mage(2)"
+Francisco de Lorme,Hero,Gifted,2,11,4,0,30,16,4,3,2,3,3,"Mage(1),Expert Sorcerer(1)"
+Harbinger's Reflection,Hero,Gifted,2,10,4,0,30,17,4,3,2,3,6,"Ethereal,Universal Shielding(3)"
+Harlequin,Hero,Gifted,3,11,4,0,30,18,5,7,4,2,2,"Acrobatic(3),Slippery"
+Il Mentore,Hero,Gifted,2,12,2,0,30,16,4,4,3,3,2,"Slippery,Pickpocket"
+Innamorati,Hero,Gifted,2,12,4,0,30,15,4,4,4,2,1,Parry(1)
+Justice,Hero,Gifted,2,14,5,0,30,18,4,4,4,3,3,Ethereal
+Marco Leontus,Hero,Gifted,2,12,2,1,30,15,4,4,3,3,2,none
+Master Gerhard,Hero,Gifted,2,12,2,0,30,16,4,4,3,4,2,Universal Shielding(3)
+Maria Fioritura,Hero,Gifted,2,12,6,0,30,18,4,4,2,3,4,"Expert Sorcerer(1),Mage(2)"
+Painted Protector,Henchman,Gifted,2,8,0,0,30,0,4,4,3,6,1,"Expert Protection(2),Universal Shielding(4)"
+Solus Hydraea,Henchman,Gifted,2,11,2,0,30,17,4,4,3,3,2,"Fear(0),Water Creature"
+The Mask Maker,Henchman,Gifted,2,11,5,0,30,14,4,4,4,4,3,Concealment(+1)
+White Dove,Henchman,Gifted,3,14,2,0,40,21,5,5,4,3,4,"Flight,Expert Marskman(2)"
+Zovena Vela,Henchman,Gifted,2,10,4,0,30,15,4,5,3,3,4,"Brave,Pickpocket,Slippery"
+Brighella,Henchman,Gifted,2,11,2,0,30,13,4,4,3,2,3,Expert Marksman(1)
+Colombina,Henchman,Gifted,2,11,2,0,30,10,4,4,3,2,5,none
+Coviello,Henchman,Gifted,2,10,2,0,30,12,5,4,3,2,2,Acrobatic(2)
+The Demolitionist,Henchman,Gifted,2,11,2,0,30,13,4,4,3,3,1,"Berserk,Expert Marksman(2),Mindless"
+Escaped Madman,Henchman,Gifted,2,14,3,0,40,16,4,4,4,2,1,none
+Il Dottore,Henchman,Gifted,2,12,2,0,30,13,4,4,3,2,3,Engage
+Mezzetino,Henchman,Gifted,2,11,2,0,30,13,4,4,3,3,2,Parry(1)
+Pantaleone,Henchman,Gifted,2,10,2,0,30,10,4,4,3,2,3,Pickpocket
+Scapino,Henchman,Gifted,2,10,2,0,30,11,5,5,2,2,3,Slippery
+Starspawn,Henchman,Gifted,2,14,3,0,40,15,4,5,4,4,2,"Mindless,Primitive,Vampiric Attack(2)"
+Pierot,Henchman,Gifted,2,8,0,0,30,8,4,4,3,2,1,"Mindless,Pickpocket"
+The Flame,Leader,Rashaar,3,22,5,3,50,30,3,3,4,5,5,"Bulky,Fast Swimmer(3),Limited Movement,Mage(2), Water Creature"
+Magi-Rashaar,Leader,Rashaar,3,12,5,4,30,24,4,4,2,3,6,"Expert Sorcerer(2),Fast Swimmer(1), Mage(3),Water Creature"
+Paarful Matriarch,Leader,Rashaar,3,22,4,4,50,25,4,3,3,3,5,"Bulky,Fear(-1),Water Creature"
+Voice of Dagon,Leader,Rashaar,3,14,3,5,40,20,4,4,3,4,4,"Universal Shielding(4), Water Creature"
+Morgraur,Hero,Rashaar,3,45,1,0,60,68,5,3,6,5,1,"Bulky,Brawler(2),Fast Swimmer(3),Fear(-3),Limited Movement,Mindless, Water Creature"
+Brachyura,Hero,Rashaar,2,10,1,0,40,18,4,3,4,7,2,"Bulky,Mindless,Water Creatur"
+Caandru Eel,Hero,Rashaar,2,11,3,0,30,15,3,5,4,4,1,"Expert Grappler(2),Fast Swimmer(2),Mindless,Primitive,Water Creature"
+Cult Enforcer,Hero,Rashaar,2,13,2,1,40,14,4,4,4,5,3,ExpertOffence(2)
+Dagonite Enforcver,Hero,Rashaar,2,12,4,0,30,15,4,4,3,3,4,"Mage(2),Engage"
+Demagogue,Hero,Rashaar,2,10,2,4,30,15,4,4,3,3,4,"Brave,Fear(0)"
+Handler,Hero,Rashaar,2,11,2,0,30,12,4,4,4,3,4,"Brave,Hunter"
+Karchaos,Hero,Rashaar,2,15,1,0,40,17,3,4,5,4,2,"Fast Swimmer(2),Fear(-2),Mindless,Water Creature"
+Krakenhost,Hero,Rashaar,2,12,2,0,30,15,3,4,2,3,2,"Companion(Hydra),Expert Grappler,Limited Movement,Mindless"
+Mature Kraken,Hero,Rashaar,2,22,2,0,50,24,4,3,5,3,3,"First Strike(1),Engage,Fear(-1),Vampiric Attack(2),Water Creature"
+Raadru,Hero,Rashaar,2,20,2,0,50,20,3,4,5,4,3,"Fast Swimmer(2),Fear(0),Water Creature"
+Salaacia,Hero,Rashaar,2,17,4,0,40,16,3,3,3,3,2,"Fast Swimmer(1),Water Creature"
+Seerting Myxin,Hero,Rashaar,2,18,2,0,50,23,4,2,4,1,1,"Parry(3),Mindless,Slippery,Vampiric Attack(2),Water Creature"
+Sirena,Hero,Rashaar,2,12,5,1,30,18,3,5,3,1,5,"Engage,Fast Swimmer(4),Mage(2),Water Creature"
+Advanced Hybrid,Henchman,Rashaar,2,10,2,0,30,12,5,4,3,1,2,"Acrobatic(2),First Strike(1),Water Creature"
+Aglaope,Henchman,Rashaar,2,10,5,0,30,14,4,5,2,1,4,"Expert Sorcerer(1),Fast Swimmer(2),Mage(1),Water Creature"
+Bounding Telchine,Henchman,Rashaar,2,11,2,0,40,9,3,5,3,1,2,"Primitive,Water Creature"
+Bulboud Toad,Henchman,Rashaar,2,14,2,0,50,13,2,4,4,4,2,"Fast Swimmer(2),Mindless,Primitive,Vampiric Attack(1),Water Creature"
+Crybaby,Henchman,Rashaar,2,4,0,0,30,5,6,4,2,0,1,"Concealment(-2),Mindless"
+Cymothoan Crusher,Henchman,Rashaar,2,17,0,0,50,17,4,3,2,5,1,"Bulky,First Strike(3),Primitive,Mindless,Water Creature"
+Dagon Officiant,Henchman,Rashaar,2,12,2,0,30,11,4,4,3,4,3,Expert Offence(2)
+Half-Breed,Henchman,Rashaar,2,12,1,0,30,16,3,3,4,3,1,"Berserk,Companion(Hydra),Expert Grappler(2), Water Creature"
+Hellhound,Henchman,Rashaar,2,10,1,0,30,10,4,4,3,2,1,"First Strike(1),Primitive,Mindless,Water Creature"
+Hybrid,Henchman,Rashaar,2,11,2,0,30,9,4,4,3,3,2,Fast Swimmer(2)
+Infant Kraken,Henchman,Rashaar,2,4,1,0,30,5,4,5,2,1,1,"Concealment(2),Mindless,Primitive, Water Creature, Vampiric Attack"
+Lesser Rhyll,Henchman,Rashaar,2,11,4,0,30,13,4,4,3,3,5,"Fast Swimmer(1),Fear(0),Water Creature"
+Lesser Ugdru,Henchman,Rashaar,2,13,1,3,40,14,3,4,4,3,3,"Fast Swimmer(2),Water Creature"
+Slave,Henchman,Rashaar,2,8,0,0,30,4,4,4,2,1,1,Mindless
+Urchin,Henchman,Rashaar,2,8,2,0,30,8,4,5,3,1,2,"Mindless,Pickpocket"
+Wet Nurse,Henchman,Rashaar,2,10,1,2,30,10,4,4,2,3,1,"Companion(Hydra),Concealment(1)"
+Patriach Bishop de Berni,Leader,Vatican,3,12,8,3,30,24,4,4,2,3,5,"Expert Sorcerer(1),Mage(3),Universal Shielding(3)"
+Father Cesta,Leader,Vatican,2,12,8,3,40,24,4,4,3,4,2,"Flight,Mage(3),Mindless,Universal Shielding(4)"
+Exorcist,Leader,Vatican,3,13,4,3,30,20,4,4,3,4,6,Fear(-2)
+Inquisitor,Leader,Vatican,3,13,2,4,30,22,4,5,3,3,5,"Frenzied,Mage(3),Universal Shielding(3)"
+Knight Commander,Leader,Vatican,3,14,3,3,30,21,4,3,4,6,5,"Brave,Expert Offence(2),Hunter,Universal Shielding(4)"
+Angel of the Bloode Rose,Leader,Vatican,3,12,2,0,50,20,5,4,4,3,3,"Flight,Frenzied,Universal Shielding(3)"
+Felix Baumgartner,Hero,Vatican,2,13,4,2,30,17,4,4,4,4,4,"Brawler(1),Expert Offence(2)"
+Avignon Guard,Hero,Vatican,2,15,2,0,40,14,4,3,4,6,3,"Brawler(1),Universal Shielding(4)"
+Baptist,Hero,Vatican,2,11,4,0,30,15,4,4,2,3,5,"Expert Sorcerer(1),Mage(2),Universal Shielding(3)"
+Burning Saint,Hero,Vatican,2,11,3,0,40,16,4,3,4,6,4,"Brave,Expert Offence(2),Universal Shielding(6)"
+Conventual Chaplain,Hero,Vatican,2,11,2,4,30,13,4,4,3,3,4,none
+Cross-bearing Deacon,Hero,Vatican,2,12,2,0,30,14,4,4,4,5,5,"Brave,Universal Shielding(5)"
+Executioner,Hero,Vatican,2,13,2,0,30,12,4,4,4,1,2,Expert Offence(2)
+Galilean Priest,Hero,Vatican,2,11,6,2,30,16,4,4,2,3,4,"Mage(2),Universal Shielding(2)"
+Golgotha,Hero,Vatican,2,20,0,0,50,18,4,3,6,0,1,"Bulky,Companion(Invoker),Fear(0),Mindless,Primitive"
+Inquisition Commissioner,Hero,Vatican,2,12,2,3,30,16,4,4,4,4,4,"Expert Marksman(2),Expert Offence(2)"
+Paladin of St. Lazarus,Hero,Vatican,2,14,2,1,40,16,4,4,4,5,2,"Expert Offence(1),Universal Shielding(3)"
+Prelate of the Flaming Sword,Hero,Vatican,2,12,1,0,30,15,4,4,4,5,2,"Brave,Bulky,Expert Offence(2),Mindless"
+Scorpio Marksman,Hero,Vatican,2,15,2,0,50,15,4,3,4,5,3,"Expert Protection(2),Universal Shielding(3)"
+Seraph,Hero,Vatican,2,15,1,0,40,17,5,4,4,6,1,"Companion(Invoker),Fear(0),Flight,Mindless,Primitive"
+Stigmatis,Hero,Vatican,2,11,1,0,30,13,4,4,3,2,3,"Frenzied,Mage(2)"
+Summoner Priest,Hero,Vatican,2,1,4,2,30,15,4,4,2,3,4,"Mage(2),Universal Shielding(3)"
+Venator of Devotion,Henchman,Vatican,2,14,4,0,40,16,4,3,4,6,4,"Expert Offence(1),Hunter,Universal Shielding(4)"
+Templar Marshal,Henchman,Vatican,2,12,3,0,30,14,5,4,4,4,4,"Engage,Expert Marksman(1),Expert Offence(1),Universal Shielding(3)"
+Thomas Thieme,Henchman,Vatican,2,11,4,0,30,13,5,5,3,3,3,"Brave, Bodyguard(Felix Baumgartner),Hunter"
+Altar Boy,Henchman,Vatican,2,8,2,0,30,11,4,5,2,2,2,Concealment(+2)
+Bispop Guard,Henchman,Vatican,2,12,1,0,30,11,4,4,3,4,2,"Bodyguard(Leader),Expert Protection(1)"
+Celestial Congretation,Henchman,Vatican,2,15,0,0,50,14,4,3,3,3,1,"Bodyguard(Invoker),Companion(Invoker),Ethereal,Mindless,Primitive,Universal Shielding"
+Celestial Spirit,Henchman,Vatican,2,8,0,0,30,10,4,5,2,3,1,"Companion(Invoker),Ethereal,Mindless,Universal Shielding(2),Vampiric Attack(1)"
+Chevaleresse,Henchman,Vatican,2,10,2,0,30,11,4,4,3,4,3,"Bodyguard(Henchman),Parry(1)"
+Crucifier,Henchman,Vatican,2,11,1,0,30,10,4,4,3,3,2,Companion(Leader)
+French Infantryman,Henchman,Vatican,2,11,1,0,30,9,4,4,3,3,2,Mindless
+Inquisitorial Spy,Henchman,Vatican,2,10,2,0,30,11,4,5,3,3,4,"Infiltration,Pickpocket"
+Knight of Malta,Henchman,Vatican,2,12,2,0,30,14,4,4,4,4,3,"Brave,Companion(Hospitaller),Expert Protection(2)"
+Lacrimosa,Henchman,Vatican,2,10,2,0,30,10,4,4,2,3,4,"Mage(2),Universal shielding(3),Frenzied"
+Maltese Squire,Henchman,Vatican,2,10,2,0,30,10,4,5,3,3,2,Companion(Leader)
+Martyr,Henchman,Vatican,2,11,0,0,30,8,4,4,3,3,1,"Frenzied,Limited Movement,Mindless"
+Priest,Henchman,Vatican,2,11,2,0,30,10,4,4,3,3,2,Expert Offence(1)
+Stalker,Henchman,Vatican,2,11,2,0,30,12,5,4,3,3,3,"Concealment(+1),Infiltration"
+Thalassic Messenger,Henchman,Vatican,2,12,0,0,50,18,3,4,4,5,1,"Companion(Invoker),Fast Swimmer(3),Primitve,Universal Shielding(4),Water Creature"
+Theophant of Sinai,Henchman,Vatican,2,13,0,0,40,13,4,4,3,3,1,"Berserk,Companion(Invoker),Mindless,Primitive,Universal Shielding(2)"
+Witch Finder,Henchman,Vatican,2,9,3,0,30,12,4,4,3,3,4,"Expert Grappler(2),Engage"
+Reliquary Page,Henchman,Vatican,2,8,3,0,30,9,4,5,2,3,2,Slippery
